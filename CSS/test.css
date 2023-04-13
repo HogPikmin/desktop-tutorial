@@ -1,29 +1,29 @@
-body{
+body {
 	background-color: lightgoldenrodyellow;
 }
 
-h1{
+h1 {
 font-size: 50px;
 color: salmon;
 }
 
-h2{
+h2 {
 color: red;
 font-size: 20px;
 }
 
-.big{
+.big {
 font-size: 60px;
 }
 
-.uppercase{
+.uppercase {
 text-transform: uppercase;
 }
 
-.big.uppercase{
+.big.uppercase {
 color: navy;
 }
 
-h1 span{
+h1 span {
 color: violet;
 }
